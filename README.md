@@ -485,23 +485,3 @@ Ventajas.html
 
 </html>
 Como se pide en la practica se fue desarrollando cada punto que se pedía, en esta ultima se creo una lista con la etiqueta <ul> y <li> para poder generar la lista, en este caso fue una pequeña lista de las ventajas de la televisión digital.
-Muestra de la página:
- 
-
-GITHUB 
-Mi blog
-Usuario: FernandoDeleg
-URL del repositorio: https://github.com/FernandoDeleg/Practica01-Mi-Blog
-
-
-
-GITHUB 
-
-	Tutorial 01 – Curbside Thai 
-	
-
-Usuario: FernandoDeleg
-URL: https://github.com/FernandoDeleg/Tutorial-01---Curbside-Thai
-
-
-
